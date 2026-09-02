@@ -206,6 +206,38 @@ $ cat kruti_profile.json
 
 </div>
 
+### 🏆 Badges & Recognitions
+
+<div align="center">
+
+  <p>
+    <a href="https://github.com/kruti002?tab=achievements" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub_Achievement-⚡_Quickdraw-FFD700?style=for-the-badge&labelColor=0d1117" alt="Quickdraw" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/kruti002?tab=achievements" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub_Achievement-🦈_Pull_Shark-00B4D8?style=for-the-badge&labelColor=0d1117" alt="Pull Shark" />
+    </a>
+    &nbsp;
+    <a href="https://github.com/kruti002?tab=achievements" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub_Achievement-🎯_YOLO-FF0055?style=for-the-badge&labelColor=0d1117" alt="YOLO" />
+    </a>
+  </p>
+
+  <p>
+    <a href="https://github.com/kruti002/Myntra-Hackerramp" target="_blank">
+      <img src="https://img.shields.io/badge/National_Hackathon-Top_70_/_29k+_Myntra_WeForShe-FF3F6C?style=for-the-badge&logo=myntra&logoColor=white&labelColor=0d1117" alt="Myntra HackerRamp" />
+    </a>
+    &nbsp;
+    <img src="https://img.shields.io/badge/JPMorgan_Chase-College_to_Corporate_Scholar-00558F?style=for-the-badge&logoColor=white&labelColor=0d1117" alt="JPMorgan Chase C2C" />
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Patent_Published-HazardScout_IoT_Robot-00FF66?style=for-the-badge&logoColor=black&labelColor=0d1117" alt="Patent Published" />
+  </p>
+
+</div>
+
 <br/>
 
 <div align="center">
