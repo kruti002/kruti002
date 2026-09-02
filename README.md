@@ -32,11 +32,6 @@
     </a>
   </p>
 
-  <!-- GitHub Trophy Badges -->
-  <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=kruti002&theme=radical&no-frame=true&no-bg=true&margin_w=4&row=1&column=7" alt="GitHub Trophies" />
-  </p>
-
 </div>
 
 <br/>
