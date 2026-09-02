@@ -186,8 +186,10 @@ $ cat kruti_profile.json
 
 <div align="center">
 
-  <!-- Interactive Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kruti002&theme=github-dark&color=00FF66&line=00FF66&point=00FF66&area=true&hide_border=true&bg_color=0d1117" alt="Contribution Graph" width="95%" />
+  <!-- Verified Lightweight SVG Contribution Graph -->
+  <a href="https://github.com/kruti002">
+    <img src="https://ghchart.rshah.org/00FF66/kruti002" alt="Kruti's GitHub Contributions Chart" width="100%" />
+  </a>
 
   <br/><br/>
 
@@ -195,7 +197,9 @@ $ cat kruti_profile.json
   <table border="0">
     <tr>
       <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=kruti002&theme=radical&background=0D1117&border=00FF66&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakLabel=00FF66" alt="GitHub Streak" width="100%" />
+        <a href="https://github.com/kruti002">
+          <img src="https://streak-stats.demolab.com?user=kruti002&theme=radical&background=0D1117&border=00FF66&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakLabel=00FF66" alt="GitHub Streak" width="100%" />
+        </a>
       </td>
       <td width="50%" align="center">
         <a href="https://leetcode.com/u/krsh5844/" target="_blank">
